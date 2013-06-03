@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[UbuntuGIS]]></title>
-  <link href="http://mapgears.github.io/ubuntugis-blog/atom.xml" rel="self"/>
-  <link href="http://mapgears.github.io/ubuntugis-blog/"/>
-  <updated>2013-06-03T15:17:24-04:00</updated>
-  <id>http://mapgears.github.io/ubuntugis-blog/</id>
+  <link href="http://mapgears.github.io/ubuntugis-site/atom.xml" rel="self"/>
+  <link href="http://mapgears.github.io/ubuntugis-site/"/>
+  <updated>2013-06-03T15:27:57-04:00</updated>
+  <id>http://mapgears.github.io/ubuntugis-site/</id>
   <author>
     <name><![CDATA[Jerome Villneueve Larouche]]></name>
     
