@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://mapgears.github.io/ubuntugis-blog/atom.xml" rel="self"/>
+  <link href="http://mapgears.github.io/ubuntugis-blog/"/>
+  <updated>2013-06-03T15:10:49-04:00</updated>
+  <id>http://mapgears.github.io/ubuntugis-blog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
